@@ -1,0 +1,63 @@
+*{
+
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+#navbar{
+    position:sticky;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    padding: .5rem 5rem;
+    box-shadow: 5px 5px 20px rgba(0,0,0,.5);
+    background-color: rgb(248, 246, 246);
+}
+.navbar .navbar-brand{
+    font-size: 25px;
+    font-weight: 800;
+    color: #0a0a0a !important;
+}
+#navbarsupportedcontent a{
+    color: rgb(3, 3, 3);
+    border-bottom: 2px solid transparent;
+}
+#navbarsupportedcontent a hover{
+    border-bottom: 2px solid rgb(7, 0, 1);
+}
+
+#navbarsupportedcontent a {
+    border-bottom: 2px solid transparent;
+        
+}
+#navbarsupportedcontent button{
+    background-image: url();
+    width:5rem;
+    border-radius: 15px;
+}
+
+.page{
+    text-align: center;
+    margin-left: 200px;
+}
+.page>h1{
+    text-align: center;
+    margin-left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+box-icon{
+    background-color: #f8faf6;
+    margin-left: 250px;
+    width: 50px;
+    height: 80px;
+
+
+}
+
+
+        
+
+
